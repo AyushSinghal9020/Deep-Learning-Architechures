@@ -3,6 +3,7 @@
 |Language Models|Bag Of Words
 ||TF-IDF
 ||GPT-0
+||BERT
 |Image Models|LeNet-5
 ||Z-F NEt
 ||Alex Net
