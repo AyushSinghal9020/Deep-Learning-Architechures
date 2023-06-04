@@ -1,13 +1,6 @@
-|Models|Further
-|---|---
-|Language Models|Bag Of Words
-||TF-IDF
-||GPT-0
-||BERT
-|Image Models|LeNet-5
-||Z-F NEt
-||Alex Net
-|Image Segmentation|U Net
-||V Net
-||Efficient Net
-||Deep Lab V3
+|Language Models|Image Models|Image Segementation
+|---|---|---
+|$BOW$|$LeNet-5$|$U$ $Net$
+|$TF-IDF$|$Z-F$ $Net$|$V$ $Net$
+|$GPT-0$|$Alex$ $Net$|$Efficient$ $Net$
+|$BERT$||$Deep$ $Lab$ $V3$
